@@ -1,0 +1,4 @@
+﻿scenario,fips_feedstock,C_biomass,effluent_vapor_LHV,MC_biomass,MC_literature,bulk_density_literature,feedstock_transport_truck_distance,power_requirements,reactor_carbon_yield,mile_transport_bioproduct,diesel_burial,counterfactual_preburn,counterfactual_piledratio,SOC_0,density_soil,C_oxidation_percent,density_char,HCorg
+best,8051,50,23,3,0.35,0.3668,10,16,68,0,0,R4,70,1.5,1,0,0.7,0
+mean,8051,45.5,21,31.5,0.375,0.3399,250,40,49,30,0.3,R3,50,16,1.2,3.2,0.425,0.12
+worst,8051,41,19,60,0.4,0.3011,500,64,30,6000,0.5,R1,70,31,1.7,6.4,0.17,0.7

@@ -1,0 +1,3 @@
+﻿fuel,gco2_mmBtu,gch4_mmBtu,gn2o_mmBtu,LHV_Btu_gal,density_g_gal,upst_emission_gco2eq_MJ
+diesel_farming_tractor,77754,0.63,0.92,128450,3167,19.46
+LPG_boiler,68040,1.068,4.86,84250,1920,19.88

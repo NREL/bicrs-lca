@@ -1,0 +1,111 @@
+equipment_name,equipment_horsepower,resource,rate,resource_numerator,resource_denominator,resource_name
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Hardwood upland small-diameter trees
+loader (large),174,diesel,0.2315,gallon,dry short ton,Hardwood upland small-diameter trees
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Hardwood upland small-diameter trees
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Hardwood upland small-diameter trees
+loader (medium),174,time,0.081017581,hour,dry short ton,Hardwood upland small-diameter trees
+loader (large),174,time,0.150534397,hour,dry short ton,Hardwood upland small-diameter trees
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Hardwood upland small-diameter trees
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Hardwood upland small-diameter trees
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Mixedwood thinning residues
+loader (large),174,diesel,0.2315,gallon,dry short ton,Mixedwood thinning residues
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Mixedwood thinning residues
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Mixedwood thinning residues
+loader (medium),174,time,0.081017581,hour,dry short ton,Mixedwood thinning residues
+loader (large),174,time,0.150534397,hour,dry short ton,Mixedwood thinning residues
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Mixedwood thinning residues
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Mixedwood thinning residues
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Hardwood processing residues
+loader (large),174,diesel,0.2315,gallon,dry short ton,Hardwood processing residues
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Hardwood processing residues
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Hardwood processing residues
+loader (medium),174,time,0.081017581,hour,dry short ton,Hardwood processing residues
+loader (large),174,time,0.150534397,hour,dry short ton,Hardwood processing residues
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Hardwood processing residues
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Hardwood processing residues
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Softwood processing residues
+loader (large),174,diesel,0.2315,gallon,dry short ton,Softwood processing residues
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Softwood processing residues
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Softwood processing residues
+loader (medium),174,time,0.081017581,hour,dry short ton,Softwood processing residues
+loader (large),174,time,0.150534397,hour,dry short ton,Softwood processing residues
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Softwood processing residues
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Softwood processing residues
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Hardwood lowland small-diameter trees
+loader (large),174,diesel,0.2315,gallon,dry short ton,Hardwood lowland small-diameter trees
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Hardwood lowland small-diameter trees
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Hardwood lowland small-diameter trees
+loader (medium),174,time,0.081017581,hour,dry short ton,Hardwood lowland small-diameter trees
+loader (large),174,time,0.150534397,hour,dry short ton,Hardwood lowland small-diameter trees
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Hardwood lowland small-diameter trees
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Hardwood lowland small-diameter trees
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Mixedwood small-diameter trees
+loader (large),174,diesel,0.2315,gallon,dry short ton,Mixedwood small-diameter trees
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Mixedwood small-diameter trees
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Mixedwood small-diameter trees
+loader (medium),174,time,0.081017581,hour,dry short ton,Mixedwood small-diameter trees
+loader (large),174,time,0.150534397,hour,dry short ton,Mixedwood small-diameter trees
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Mixedwood small-diameter trees
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Mixedwood small-diameter trees
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Softwood natural small-diameter trees
+loader (large),174,diesel,0.2315,gallon,dry short ton,Softwood natural small-diameter trees
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Softwood natural small-diameter trees
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Softwood natural small-diameter trees
+loader (medium),174,time,0.081017581,hour,dry short ton,Softwood natural small-diameter trees
+loader (large),174,time,0.150534397,hour,dry short ton,Softwood natural small-diameter trees
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Softwood natural small-diameter trees
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Softwood natural small-diameter trees
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Softwood natural logging residues
+loader (large),174,diesel,0.2315,gallon,dry short ton,Softwood natural logging residues
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Softwood natural logging residues
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Softwood natural logging residues
+loader (medium),174,time,0.081017581,hour,dry short ton,Softwood natural logging residues
+loader (large),174,time,0.150534397,hour,dry short ton,Softwood natural logging residues
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Softwood natural logging residues
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Softwood natural logging residues
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Hardwood upland logging residues
+loader (large),174,diesel,0.2315,gallon,dry short ton,Hardwood upland logging residues
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Hardwood upland logging residues
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Hardwood upland logging residues
+loader (medium),174,time,0.081017581,hour,dry short ton,Hardwood upland logging residues
+loader (large),174,time,0.150534397,hour,dry short ton,Hardwood upland logging residues
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Hardwood upland logging residues
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Hardwood upland logging residues
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Mixedwood logging residues
+loader (large),174,diesel,0.2315,gallon,dry short ton,Mixedwood logging residues
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Mixedwood logging residues
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Mixedwood logging residues
+loader (medium),174,time,0.081017581,hour,dry short ton,Mixedwood logging residues
+loader (large),174,time,0.150534397,hour,dry short ton,Mixedwood logging residues
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Mixedwood logging residues
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Mixedwood logging residues
+loader (medium),174,diesel,0.4134,gallon,dry short ton,Hardwood lowland logging residues
+loader (large),174,diesel,0.2315,gallon,dry short ton,Hardwood lowland logging residues
+whole tree chipper (medium),450,diesel,0,gallon,dry short ton,Hardwood lowland logging residues
+whole tree chipper (large),750,diesel,0,gallon,dry short ton,Hardwood lowland logging residues
+loader (medium),174,time,0.081017581,hour,dry short ton,Hardwood lowland logging residues
+loader (large),174,time,0.150534397,hour,dry short ton,Hardwood lowland logging residues
+whole tree chipper (medium),450,time,0.032666928,hour,dry short ton,Hardwood lowland logging residues
+whole tree chipper (large),750,time,0.024500196,hour,dry short ton,Hardwood lowland logging residues
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Hardwood upland small-diameter trees
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Mixedwood thinning residues
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Hardwood processing residues
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Softwood processing residues
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Hardwood lowland small-diameter trees
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Mixedwood small-diameter trees
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Softwood natural small-diameter trees
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Softwood natural logging residues
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Hardwood upland logging residues
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Mixedwood logging residues
+feller buncher,100,time,0.042881647,hour,cubic meter wet basis,Hardwood lowland logging residues
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Hardwood upland small-diameter trees
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Mixedwood thinning residues
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Hardwood processing residues
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Softwood processing residues
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Hardwood lowland small-diameter trees
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Mixedwood small-diameter trees
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Softwood natural small-diameter trees
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Softwood natural logging residues
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Hardwood upland logging residues
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Mixedwood logging residues
+feller buncher,100,diesel,0.26813463,gallon,cubic meter wet basis,Hardwood lowland logging residues

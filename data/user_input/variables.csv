@@ -1,0 +1,3 @@
+﻿scenario,fips_feedstock,C_biomass,C_biochar,effluent_vapor_LHV,MC_biomass,MC_literature,bulk_density_literature,feedstock_transport_truck_distance,power_requirements,temp_process,yield_biochar,Eefficiency_conversion,mile_transport_bioproduct,diesel_burial,counterfactual_preburn,counterfactual_piledratio,SOC_0,density_soil,C_oxidation_percent,density_char,HCorg
+min_storage,8051,0.41,0.5,11,0.03,0.35,0.3668,10,16,275,0.2,0.63,0,0,R4,70,1.5,1,0,0.17,0
+max_storage,8051,0.5,0.85,20,0.2,0.4,0.3011,500,64,450,0.5,1,60,0.5,R1,70,31,1.7,10,0.7,0.5
