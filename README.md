@@ -1,5 +1,5 @@
 # bicrs-lca
 
-Welcome to bicrs-lca, a biomass carbon removal and storage (BiCRS) life cycle analysis (LCA) tool. It can be used to estimate the net GHG emissions associated with various BiCRS pathways.
+This is a biomass carbon removal and storage (BiCRS) life cycle analysis (LCA) tool. This version can be used to estimate the impacts of biochar burial BiCRS pathways.
 
 NREL Software Record Number: SWR-26-005
